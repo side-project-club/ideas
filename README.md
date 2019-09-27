@@ -1,0 +1,2 @@
+# ideas
+side-project-ideas
