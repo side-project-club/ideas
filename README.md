@@ -1,4 +1,11 @@
-# ideas
+## Ideas
 
-Let's post side projects ideas in the issues of this project and choose interesting project to work together!
+If you have a product idea
+- seeking feedback
+- seeking cooperations
 
+You are welcomed to post it in the issues
+
+## Voting
+
+Leave a 👍 to vote.
