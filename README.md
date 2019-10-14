@@ -1,3 +1,5 @@
+> Pro tip: watch this repo
+
 ## Ideas
 
 If you have a product idea
