@@ -12,3 +12,5 @@ You are welcomed to post it in the issues
 
 Leave a 👍 to vote.
 
+## Good to read
+The issue template is based on [How to pick a start up idea](https://www.defmacro.org/2019/03/26/startup-checklist.html)
