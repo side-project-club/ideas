@@ -15,3 +15,5 @@ The issue template is based on [How to pick a start up idea](https://www.defmacr
 ](https://www.defmacro.org)
 
 > Pro tip: watch this repo - sit on top of new ideas and disscussions
+
+- [startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist/blob/master/marketing-checklist.md)
